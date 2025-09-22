@@ -1,8 +1,8 @@
 Created by Tollski
-Last Edit: 2025-06-25
+Last Edit: 2025-09-22
 
-Flyby Intros
-* All campaign flyby intro audio files have had their perceived loudness normalized to -18.0 LUFS.
+Intro Flybys
+* All campaign intro flyby audio files have had their perceived loudness normalized to -16.0 LUFS.
 
 Music
 * All campaign music audio files have had their perceived loudness normalized to -16.0 LUFS.
