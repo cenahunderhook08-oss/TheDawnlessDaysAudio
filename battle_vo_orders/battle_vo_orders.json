@@ -16,13 +16,13 @@
       {
         "$type": "Sound",
         "EHircType": 2,
-        "UlID": "2226145042 [?]",
+        "UlID": "2310719950 [Bvo_Roman_Inf1_SelectedElfGeneric_4]",
         "AkBankSourceData": {
           "UlPluginId": 262145,
           "StreamType": 2,
           "AkMediaInformation": {
-            "SourceId": "123040140 [?]",
-            "FileId": "123040140 [?]",
+            "SourceId": "2184107579 [Bvo_Roman_Inf1_SelectedElfGeneric_4_File]",
+            "FileId": "2184107579 [Bvo_Roman_Inf1_SelectedElfGeneric_4_File]",
             "InMemoryMediaSize": 0,
             "SourceBits": 1
           }
@@ -34,7 +34,7 @@
           },
           "OverrideAttachmentParams": 0,
           "OverrideBusId": "0 [?]",
-          "DirectParentID": "0 [?]",
+          "DirectParentID": "2325875355 [Bvo_Roman_Inf1_SelectedElfGeneric]",
           "ByBitVector": 0,
           "NodeInitialParams": {
             "AkPropBundle": {
@@ -73,13 +73,13 @@
       {
         "$type": "Sound",
         "EHircType": 2,
-        "UlID": "493559768 [?]",
+        "UlID": "2310719945 [Bvo_Roman_Inf1_SelectedElfGeneric_3]",
         "AkBankSourceData": {
           "UlPluginId": 262145,
           "StreamType": 2,
           "AkMediaInformation": {
-            "SourceId": "123040121 [?]",
-            "FileId": "123040121 [?]",
+            "SourceId": "2497109966 [Bvo_Roman_Inf1_SelectedElfGeneric_3_File]",
+            "FileId": "2497109966 [Bvo_Roman_Inf1_SelectedElfGeneric_3_File]",
             "InMemoryMediaSize": 0,
             "SourceBits": 1
           }
@@ -91,7 +91,7 @@
           },
           "OverrideAttachmentParams": 0,
           "OverrideBusId": "0 [?]",
-          "DirectParentID": "1444401000 [?]",
+          "DirectParentID": "2325875355 [Bvo_Roman_Inf1_SelectedElfGeneric]",
           "ByBitVector": 0,
           "NodeInitialParams": {
             "AkPropBundle": {
@@ -130,13 +130,13 @@
       {
         "$type": "Sound",
         "EHircType": 2,
-        "UlID": "1793757487 [?]",
+        "UlID": "2310719944 [Bvo_Roman_Inf1_SelectedElfGeneric_2]",
         "AkBankSourceData": {
           "UlPluginId": 262145,
           "StreamType": 2,
           "AkMediaInformation": {
-            "SourceId": "123040124 [?]",
-            "FileId": "123040124 [?]",
+            "SourceId": "419896273 [Bvo_Roman_Inf1_SelectedElfGeneric_2_File]",
+            "FileId": "419896273 [Bvo_Roman_Inf1_SelectedElfGeneric_2_File]",
             "InMemoryMediaSize": 0,
             "SourceBits": 1
           }
@@ -148,7 +148,7 @@
           },
           "OverrideAttachmentParams": 0,
           "OverrideBusId": "0 [?]",
-          "DirectParentID": "1444401000 [?]",
+          "DirectParentID": "2325875355 [Bvo_Roman_Inf1_SelectedElfGeneric]",
           "ByBitVector": 0,
           "NodeInitialParams": {
             "AkPropBundle": {
@@ -187,13 +187,13 @@
       {
         "$type": "Sound",
         "EHircType": 2,
-        "UlID": "1984069635 [?]",
+        "UlID": "2310719947 [Bvo_Roman_Inf1_SelectedElfGeneric_1]",
         "AkBankSourceData": {
           "UlPluginId": 262145,
           "StreamType": 2,
           "AkMediaInformation": {
-            "SourceId": "123040125 [?]",
-            "FileId": "123040125 [?]",
+            "SourceId": "301259524 [Bvo_Roman_Inf1_SelectedElfGeneric_1_File]",
+            "FileId": "301259524 [Bvo_Roman_Inf1_SelectedElfGeneric_1_File]",
             "InMemoryMediaSize": 0,
             "SourceBits": 1
           }
@@ -205,520 +205,7 @@
           },
           "OverrideAttachmentParams": 0,
           "OverrideBusId": "0 [?]",
-          "DirectParentID": "1444401000 [?]",
-          "ByBitVector": 0,
-          "NodeInitialParams": {
-            "AkPropBundle": {
-              "Props": [
-                {
-                  "Id": 6,
-                  "Value": 100
-                }
-              ]
-            },
-            "AkPropBundleMinMax": {
-              "Props": []
-            }
-          },
-          "PositioningParams": {
-            "ByVector": 192
-          },
-          "AuxParams": {
-            "ByBitVector": 0
-          },
-          "AdvSettingsParams": {
-            "ByBitVector1": 0,
-            "VirtualQueueBehavior": 1,
-            "MaxNumInstance": 0,
-            "BelowThresholdBehavior": 0,
-            "ByBitVector2": 0
-          },
-          "StateChunk": {
-            "StateGroups": []
-          },
-          "InitialRtpc": {
-            "RtpcList": []
-          }
-        }
-      },
-      {
-        "$type": "Sound",
-        "EHircType": 2,
-        "UlID": "2798771709 [?]",
-        "AkBankSourceData": {
-          "UlPluginId": 262145,
-          "StreamType": 2,
-          "AkMediaInformation": {
-            "SourceId": "123040158 [?]",
-            "FileId": "123040158 [?]",
-            "InMemoryMediaSize": 0,
-            "SourceBits": 1
-          }
-        },
-        "NodeBaseParams": {
-          "NodeInitialFxParams": {
-            "IsOverrideParentFX": 0,
-            "FxChunks": []
-          },
-          "OverrideAttachmentParams": 0,
-          "OverrideBusId": "0 [?]",
-          "DirectParentID": "0 [?]",
-          "ByBitVector": 0,
-          "NodeInitialParams": {
-            "AkPropBundle": {
-              "Props": [
-                {
-                  "Id": 6,
-                  "Value": 100
-                }
-              ]
-            },
-            "AkPropBundleMinMax": {
-              "Props": []
-            }
-          },
-          "PositioningParams": {
-            "ByVector": 192
-          },
-          "AuxParams": {
-            "ByBitVector": 0
-          },
-          "AdvSettingsParams": {
-            "ByBitVector1": 0,
-            "VirtualQueueBehavior": 1,
-            "MaxNumInstance": 0,
-            "BelowThresholdBehavior": 0,
-            "ByBitVector2": 0
-          },
-          "StateChunk": {
-            "StateGroups": []
-          },
-          "InitialRtpc": {
-            "RtpcList": []
-          }
-        }
-      },
-      {
-        "$type": "Sound",
-        "EHircType": 2,
-        "UlID": "2859012313 [?]",
-        "AkBankSourceData": {
-          "UlPluginId": 262145,
-          "StreamType": 2,
-          "AkMediaInformation": {
-            "SourceId": "123040128 [?]",
-            "FileId": "123040128 [?]",
-            "InMemoryMediaSize": 0,
-            "SourceBits": 1
-          }
-        },
-        "NodeBaseParams": {
-          "NodeInitialFxParams": {
-            "IsOverrideParentFX": 0,
-            "FxChunks": []
-          },
-          "OverrideAttachmentParams": 0,
-          "OverrideBusId": "0 [?]",
-          "DirectParentID": "1444401000 [?]",
-          "ByBitVector": 0,
-          "NodeInitialParams": {
-            "AkPropBundle": {
-              "Props": [
-                {
-                  "Id": 6,
-                  "Value": 100
-                }
-              ]
-            },
-            "AkPropBundleMinMax": {
-              "Props": []
-            }
-          },
-          "PositioningParams": {
-            "ByVector": 192
-          },
-          "AuxParams": {
-            "ByBitVector": 0
-          },
-          "AdvSettingsParams": {
-            "ByBitVector1": 0,
-            "VirtualQueueBehavior": 1,
-            "MaxNumInstance": 0,
-            "BelowThresholdBehavior": 0,
-            "ByBitVector2": 0
-          },
-          "StateChunk": {
-            "StateGroups": []
-          },
-          "InitialRtpc": {
-            "RtpcList": []
-          }
-        }
-      },
-      {
-        "$type": "Sound",
-        "EHircType": 2,
-        "UlID": "1155246792 [?]",
-        "AkBankSourceData": {
-          "UlPluginId": 262145,
-          "StreamType": 2,
-          "AkMediaInformation": {
-            "SourceId": "123040129 [?]",
-            "FileId": "123040129 [?]",
-            "InMemoryMediaSize": 0,
-            "SourceBits": 1
-          }
-        },
-        "NodeBaseParams": {
-          "NodeInitialFxParams": {
-            "IsOverrideParentFX": 0,
-            "FxChunks": []
-          },
-          "OverrideAttachmentParams": 0,
-          "OverrideBusId": "0 [?]",
-          "DirectParentID": "1444401000 [?]",
-          "ByBitVector": 0,
-          "NodeInitialParams": {
-            "AkPropBundle": {
-              "Props": [
-                {
-                  "Id": 6,
-                  "Value": 100
-                }
-              ]
-            },
-            "AkPropBundleMinMax": {
-              "Props": []
-            }
-          },
-          "PositioningParams": {
-            "ByVector": 192
-          },
-          "AuxParams": {
-            "ByBitVector": 0
-          },
-          "AdvSettingsParams": {
-            "ByBitVector1": 0,
-            "VirtualQueueBehavior": 1,
-            "MaxNumInstance": 0,
-            "BelowThresholdBehavior": 0,
-            "ByBitVector2": 0
-          },
-          "StateChunk": {
-            "StateGroups": []
-          },
-          "InitialRtpc": {
-            "RtpcList": []
-          }
-        }
-      },
-      {
-        "$type": "Sound",
-        "EHircType": 2,
-        "UlID": "1302083284 [?]",
-        "AkBankSourceData": {
-          "UlPluginId": 262145,
-          "StreamType": 2,
-          "AkMediaInformation": {
-            "SourceId": "123040109 [?]",
-            "FileId": "123040109 [?]",
-            "InMemoryMediaSize": 0,
-            "SourceBits": 1
-          }
-        },
-        "NodeBaseParams": {
-          "NodeInitialFxParams": {
-            "IsOverrideParentFX": 0,
-            "FxChunks": []
-          },
-          "OverrideAttachmentParams": 0,
-          "OverrideBusId": "0 [?]",
-          "DirectParentID": "1444401000 [?]",
-          "ByBitVector": 0,
-          "NodeInitialParams": {
-            "AkPropBundle": {
-              "Props": [
-                {
-                  "Id": 6,
-                  "Value": 100
-                }
-              ]
-            },
-            "AkPropBundleMinMax": {
-              "Props": []
-            }
-          },
-          "PositioningParams": {
-            "ByVector": 192
-          },
-          "AuxParams": {
-            "ByBitVector": 0
-          },
-          "AdvSettingsParams": {
-            "ByBitVector1": 0,
-            "VirtualQueueBehavior": 1,
-            "MaxNumInstance": 0,
-            "BelowThresholdBehavior": 0,
-            "ByBitVector2": 0
-          },
-          "StateChunk": {
-            "StateGroups": []
-          },
-          "InitialRtpc": {
-            "RtpcList": []
-          }
-        }
-      },
-      {
-        "$type": "Sound",
-        "EHircType": 2,
-        "UlID": "2139680164 [?]",
-        "AkBankSourceData": {
-          "UlPluginId": 262145,
-          "StreamType": 2,
-          "AkMediaInformation": {
-            "SourceId": "123040143 [?]",
-            "FileId": "123040143 [?]",
-            "InMemoryMediaSize": 0,
-            "SourceBits": 1
-          }
-        },
-        "NodeBaseParams": {
-          "NodeInitialFxParams": {
-            "IsOverrideParentFX": 0,
-            "FxChunks": []
-          },
-          "OverrideAttachmentParams": 0,
-          "OverrideBusId": "0 [?]",
-          "DirectParentID": "0 [?]",
-          "ByBitVector": 0,
-          "NodeInitialParams": {
-            "AkPropBundle": {
-              "Props": [
-                {
-                  "Id": 6,
-                  "Value": 100
-                }
-              ]
-            },
-            "AkPropBundleMinMax": {
-              "Props": []
-            }
-          },
-          "PositioningParams": {
-            "ByVector": 192
-          },
-          "AuxParams": {
-            "ByBitVector": 0
-          },
-          "AdvSettingsParams": {
-            "ByBitVector1": 0,
-            "VirtualQueueBehavior": 1,
-            "MaxNumInstance": 0,
-            "BelowThresholdBehavior": 0,
-            "ByBitVector2": 0
-          },
-          "StateChunk": {
-            "StateGroups": []
-          },
-          "InitialRtpc": {
-            "RtpcList": []
-          }
-        }
-      },
-      {
-        "$type": "Sound",
-        "EHircType": 2,
-        "UlID": "3416133640 [?]",
-        "AkBankSourceData": {
-          "UlPluginId": 262145,
-          "StreamType": 2,
-          "AkMediaInformation": {
-            "SourceId": "123040111 [?]",
-            "FileId": "123040111 [?]",
-            "InMemoryMediaSize": 0,
-            "SourceBits": 1
-          }
-        },
-        "NodeBaseParams": {
-          "NodeInitialFxParams": {
-            "IsOverrideParentFX": 0,
-            "FxChunks": []
-          },
-          "OverrideAttachmentParams": 0,
-          "OverrideBusId": "0 [?]",
-          "DirectParentID": "1444401000 [?]",
-          "ByBitVector": 0,
-          "NodeInitialParams": {
-            "AkPropBundle": {
-              "Props": [
-                {
-                  "Id": 6,
-                  "Value": 100
-                }
-              ]
-            },
-            "AkPropBundleMinMax": {
-              "Props": []
-            }
-          },
-          "PositioningParams": {
-            "ByVector": 192
-          },
-          "AuxParams": {
-            "ByBitVector": 0
-          },
-          "AdvSettingsParams": {
-            "ByBitVector1": 0,
-            "VirtualQueueBehavior": 1,
-            "MaxNumInstance": 0,
-            "BelowThresholdBehavior": 0,
-            "ByBitVector2": 0
-          },
-          "StateChunk": {
-            "StateGroups": []
-          },
-          "InitialRtpc": {
-            "RtpcList": []
-          }
-        }
-      },
-      {
-        "$type": "Sound",
-        "EHircType": 2,
-        "UlID": "2997940844 [?]",
-        "AkBankSourceData": {
-          "UlPluginId": 262145,
-          "StreamType": 2,
-          "AkMediaInformation": {
-            "SourceId": "123040117 [?]",
-            "FileId": "123040117 [?]",
-            "InMemoryMediaSize": 0,
-            "SourceBits": 1
-          }
-        },
-        "NodeBaseParams": {
-          "NodeInitialFxParams": {
-            "IsOverrideParentFX": 0,
-            "FxChunks": []
-          },
-          "OverrideAttachmentParams": 0,
-          "OverrideBusId": "0 [?]",
-          "DirectParentID": "1444401000 [?]",
-          "ByBitVector": 0,
-          "NodeInitialParams": {
-            "AkPropBundle": {
-              "Props": [
-                {
-                  "Id": 6,
-                  "Value": 100
-                }
-              ]
-            },
-            "AkPropBundleMinMax": {
-              "Props": []
-            }
-          },
-          "PositioningParams": {
-            "ByVector": 192
-          },
-          "AuxParams": {
-            "ByBitVector": 0
-          },
-          "AdvSettingsParams": {
-            "ByBitVector1": 0,
-            "VirtualQueueBehavior": 1,
-            "MaxNumInstance": 0,
-            "BelowThresholdBehavior": 0,
-            "ByBitVector2": 0
-          },
-          "StateChunk": {
-            "StateGroups": []
-          },
-          "InitialRtpc": {
-            "RtpcList": []
-          }
-        }
-      },
-      {
-        "$type": "Sound",
-        "EHircType": 2,
-        "UlID": "1179310636 [?]",
-        "AkBankSourceData": {
-          "UlPluginId": 262145,
-          "StreamType": 2,
-          "AkMediaInformation": {
-            "SourceId": "123040160 [?]",
-            "FileId": "123040160 [?]",
-            "InMemoryMediaSize": 0,
-            "SourceBits": 1
-          }
-        },
-        "NodeBaseParams": {
-          "NodeInitialFxParams": {
-            "IsOverrideParentFX": 0,
-            "FxChunks": []
-          },
-          "OverrideAttachmentParams": 0,
-          "OverrideBusId": "0 [?]",
-          "DirectParentID": "0 [?]",
-          "ByBitVector": 0,
-          "NodeInitialParams": {
-            "AkPropBundle": {
-              "Props": [
-                {
-                  "Id": 6,
-                  "Value": 100
-                }
-              ]
-            },
-            "AkPropBundleMinMax": {
-              "Props": []
-            }
-          },
-          "PositioningParams": {
-            "ByVector": 192
-          },
-          "AuxParams": {
-            "ByBitVector": 0
-          },
-          "AdvSettingsParams": {
-            "ByBitVector1": 0,
-            "VirtualQueueBehavior": 1,
-            "MaxNumInstance": 0,
-            "BelowThresholdBehavior": 0,
-            "ByBitVector2": 0
-          },
-          "StateChunk": {
-            "StateGroups": []
-          },
-          "InitialRtpc": {
-            "RtpcList": []
-          }
-        }
-      },
-      {
-        "$type": "Sound",
-        "EHircType": 2,
-        "UlID": "1179310639 [?]",
-        "AkBankSourceData": {
-          "UlPluginId": 262145,
-          "StreamType": 2,
-          "AkMediaInformation": {
-            "SourceId": "123040159 [?]",
-            "FileId": "123040159 [?]",
-            "InMemoryMediaSize": 0,
-            "SourceBits": 1
-          }
-        },
-        "NodeBaseParams": {
-          "NodeInitialFxParams": {
-            "IsOverrideParentFX": 0,
-            "FxChunks": []
-          },
-          "OverrideAttachmentParams": 0,
-          "OverrideBusId": "0 [?]",
-          "DirectParentID": "0 [?]",
+          "DirectParentID": "2325875355 [Bvo_Roman_Inf1_SelectedElfGeneric]",
           "ByBitVector": 0,
           "NodeInitialParams": {
             "AkPropBundle": {
@@ -757,7 +244,7 @@
       {
         "$type": "Random/Sequence Container",
         "EHircType": 5,
-        "UlID": "685910281 [?]",
+        "UlID": "2325875355 [Bvo_Roman_Inf1_SelectedElfGeneric]",
         "NodeBaseParams": {
           "NodeInitialFxParams": {
             "IsOverrideParentFX": 0,
@@ -765,7 +252,7 @@
           },
           "OverrideAttachmentParams": 0,
           "OverrideBusId": "0 [?]",
-          "DirectParentID": "0 [?]",
+          "DirectParentID": "3699923075 [Bvo_Roman_Inf1]",
           "ByBitVector": 0,
           "NodeInitialParams": {
             "AkPropBundle": {
@@ -807,17 +294,827 @@
         "Mode": 0,
         "ByBitVector": 18,
         "ChildIds": [
-          "1179310639 [?]",
-          "1179310636 [?]"
+          "2310719947 [Bvo_Roman_Inf1_SelectedElfGeneric_1]",
+          "2310719944 [Bvo_Roman_Inf1_SelectedElfGeneric_2]",
+          "2310719945 [Bvo_Roman_Inf1_SelectedElfGeneric_3]",
+          "2310719950 [Bvo_Roman_Inf1_SelectedElfGeneric_4]"
         ],
         "CAkPlayList": {
           "PlaylistItems": [
             {
-              "PlayId": "1179310639 [?]",
+              "PlayId": "2310719950 [Bvo_Roman_Inf1_SelectedElfGeneric_4]",
               "Weight": 50000
             },
             {
-              "PlayId": "1179310636 [?]",
+              "PlayId": "2310719945 [Bvo_Roman_Inf1_SelectedElfGeneric_3]",
+              "Weight": 50000
+            },
+            {
+              "PlayId": "2310719944 [Bvo_Roman_Inf1_SelectedElfGeneric_2]",
+              "Weight": 50000
+            },
+            {
+              "PlayId": "2310719947 [Bvo_Roman_Inf1_SelectedElfGeneric_1]",
+              "Weight": 50000
+            }
+          ]
+        }
+      },
+      {
+        "$type": "Sound",
+        "EHircType": 2,
+        "UlID": "314796834 [Bvo_Roman_Inf1_SelectedElfArcher_6]",
+        "AkBankSourceData": {
+          "UlPluginId": 262145,
+          "StreamType": 2,
+          "AkMediaInformation": {
+            "SourceId": "2770963479 [Bvo_Roman_Inf1_SelectedElfArcher_6_File]",
+            "FileId": "2770963479 [Bvo_Roman_Inf1_SelectedElfArcher_6_File]",
+            "InMemoryMediaSize": 0,
+            "SourceBits": 1
+          }
+        },
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "1961974673 [Bvo_Roman_Inf1_SelectedElfArcher]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": [
+                {
+                  "Id": 6,
+                  "Value": 100
+                }
+              ]
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        }
+      },
+      {
+        "$type": "Sound",
+        "EHircType": 2,
+        "UlID": "314796833 [Bvo_Roman_Inf1_SelectedElfArcher_5]",
+        "AkBankSourceData": {
+          "UlPluginId": 262145,
+          "StreamType": 2,
+          "AkMediaInformation": {
+            "SourceId": "2050148454 [Bvo_Roman_Inf1_SelectedElfArcher_5_File]",
+            "FileId": "2050148454 [Bvo_Roman_Inf1_SelectedElfArcher_5_File]",
+            "InMemoryMediaSize": 0,
+            "SourceBits": 1
+          }
+        },
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "1961974673 [Bvo_Roman_Inf1_SelectedElfArcher]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": [
+                {
+                  "Id": 6,
+                  "Value": 100
+                }
+              ]
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        }
+      },
+      {
+        "$type": "Sound",
+        "EHircType": 2,
+        "UlID": "314796832 [Bvo_Roman_Inf1_SelectedElfArcher_4]",
+        "AkBankSourceData": {
+          "UlPluginId": 262145,
+          "StreamType": 2,
+          "AkMediaInformation": {
+            "SourceId": "264502697 [Bvo_Roman_Inf1_SelectedElfArcher_4_File]",
+            "FileId": "264502697 [Bvo_Roman_Inf1_SelectedElfArcher_4_File]",
+            "InMemoryMediaSize": 0,
+            "SourceBits": 1
+          }
+        },
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "1961974673 [Bvo_Roman_Inf1_SelectedElfArcher]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": [
+                {
+                  "Id": 6,
+                  "Value": 100
+                }
+              ]
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        }
+      },
+      {
+        "$type": "Sound",
+        "EHircType": 2,
+        "UlID": "314796839 [Bvo_Roman_Inf1_SelectedElfArcher_3]",
+        "AkBankSourceData": {
+          "UlPluginId": 262145,
+          "StreamType": 2,
+          "AkMediaInformation": {
+            "SourceId": "3780565656 [Bvo_Roman_Inf1_SelectedElfArcher_3_File]",
+            "FileId": "3780565656 [Bvo_Roman_Inf1_SelectedElfArcher_3_File]",
+            "InMemoryMediaSize": 0,
+            "SourceBits": 1
+          }
+        },
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "1961974673 [Bvo_Roman_Inf1_SelectedElfArcher]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": [
+                {
+                  "Id": 6,
+                  "Value": 100
+                }
+              ]
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        }
+      },
+      {
+        "$type": "Sound",
+        "EHircType": 2,
+        "UlID": "314796838 [Bvo_Roman_Inf1_SelectedElfArcher_2]",
+        "AkBankSourceData": {
+          "UlPluginId": 262145,
+          "StreamType": 2,
+          "AkMediaInformation": {
+            "SourceId": "3108390931 [Bvo_Roman_Inf1_SelectedElfArcher_2_File]",
+            "FileId": "3108390931 [Bvo_Roman_Inf1_SelectedElfArcher_2_File]",
+            "InMemoryMediaSize": 0,
+            "SourceBits": 1
+          }
+        },
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "1961974673 [Bvo_Roman_Inf1_SelectedElfArcher]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": [
+                {
+                  "Id": 6,
+                  "Value": 100
+                }
+              ]
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        }
+      },
+      {
+        "$type": "Sound",
+        "EHircType": 2,
+        "UlID": "314796837 [Bvo_Roman_Inf1_SelectedElfArcher_1]",
+        "AkBankSourceData": {
+          "UlPluginId": 262145,
+          "StreamType": 2,
+          "AkMediaInformation": {
+            "SourceId": "789387698 [Bvo_Roman_Inf1_SelectedElfArcher_1_File]",
+            "FileId": "789387698 [Bvo_Roman_Inf1_SelectedElfArcher_1_File]",
+            "InMemoryMediaSize": 0,
+            "SourceBits": 1
+          }
+        },
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "1961974673 [Bvo_Roman_Inf1_SelectedElfArcher]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": [
+                {
+                  "Id": 6,
+                  "Value": 100
+                }
+              ]
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        }
+      },
+      {
+        "$type": "Random/Sequence Container",
+        "EHircType": 5,
+        "UlID": "1961974673 [Bvo_Roman_Inf1_SelectedElfArcher]",
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "3699923075 [Bvo_Roman_Inf1]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": []
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        },
+        "LoopCount": 1,
+        "LoopModMin": 0,
+        "LoopModMax": 0,
+        "TransitionTime": 1000,
+        "TransitionTimeModMin": 0,
+        "TransitionTimeModMax": 0,
+        "AvoidRepeatCount": 1,
+        "TransitionMode": 0,
+        "RandomMode": 0,
+        "Mode": 0,
+        "ByBitVector": 18,
+        "ChildIds": [
+          "314796837 [Bvo_Roman_Inf1_SelectedElfArcher_1]",
+          "314796838 [Bvo_Roman_Inf1_SelectedElfArcher_2]",
+          "314796839 [Bvo_Roman_Inf1_SelectedElfArcher_3]",
+          "314796832 [Bvo_Roman_Inf1_SelectedElfArcher_4]",
+          "314796833 [Bvo_Roman_Inf1_SelectedElfArcher_5]",
+          "314796834 [Bvo_Roman_Inf1_SelectedElfArcher_6]"
+        ],
+        "CAkPlayList": {
+          "PlaylistItems": [
+            {
+              "PlayId": "314796834 [Bvo_Roman_Inf1_SelectedElfArcher_6]",
+              "Weight": 50000
+            },
+            {
+              "PlayId": "314796833 [Bvo_Roman_Inf1_SelectedElfArcher_5]",
+              "Weight": 50000
+            },
+            {
+              "PlayId": "314796832 [Bvo_Roman_Inf1_SelectedElfArcher_4]",
+              "Weight": 50000
+            },
+            {
+              "PlayId": "314796839 [Bvo_Roman_Inf1_SelectedElfArcher_3]",
+              "Weight": 50000
+            },
+            {
+              "PlayId": "314796838 [Bvo_Roman_Inf1_SelectedElfArcher_2]",
+              "Weight": 50000
+            },
+            {
+              "PlayId": "314796837 [Bvo_Roman_Inf1_SelectedElfArcher_1]",
+              "Weight": 50000
+            }
+          ]
+        }
+      },
+      {
+        "$type": "Sound",
+        "EHircType": 2,
+        "UlID": "3125267862 [Bvo_Roman_Inf1_SelectedEasterlingGeneric_5]",
+        "AkBankSourceData": {
+          "UlPluginId": 262145,
+          "StreamType": 2,
+          "AkMediaInformation": {
+            "SourceId": "1982777539 [Bvo_Roman_Inf1_SelectedEasterlingGeneric_5_File]",
+            "FileId": "1982777539 [Bvo_Roman_Inf1_SelectedEasterlingGeneric_5_File]",
+            "InMemoryMediaSize": 0,
+            "SourceBits": 1
+          }
+        },
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "2577131290 [Bvo_Roman_Inf1_SelectedEasterlingGeneric]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": [
+                {
+                  "Id": 6,
+                  "Value": 100
+                }
+              ]
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        }
+      },
+      {
+        "$type": "Sound",
+        "EHircType": 2,
+        "UlID": "3125267863 [Bvo_Roman_Inf1_SelectedEasterlingGeneric_4]",
+        "AkBankSourceData": {
+          "UlPluginId": 262145,
+          "StreamType": 2,
+          "AkMediaInformation": {
+            "SourceId": "459260232 [Bvo_Roman_Inf1_SelectedEasterlingGeneric_4_File]",
+            "FileId": "459260232 [Bvo_Roman_Inf1_SelectedEasterlingGeneric_4_File]",
+            "InMemoryMediaSize": 0,
+            "SourceBits": 1
+          }
+        },
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "2577131290 [Bvo_Roman_Inf1_SelectedEasterlingGeneric]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": [
+                {
+                  "Id": 6,
+                  "Value": 100
+                }
+              ]
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        }
+      },
+      {
+        "$type": "Sound",
+        "EHircType": 2,
+        "UlID": "3125267856 [Bvo_Roman_Inf1_SelectedEasterlingGeneric_3]",
+        "AkBankSourceData": {
+          "UlPluginId": 262145,
+          "StreamType": 2,
+          "AkMediaInformation": {
+            "SourceId": "1196587673 [Bvo_Roman_Inf1_SelectedEasterlingGeneric_3_File]",
+            "FileId": "1196587673 [Bvo_Roman_Inf1_SelectedEasterlingGeneric_3_File]",
+            "InMemoryMediaSize": 0,
+            "SourceBits": 1
+          }
+        },
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "2577131290 [Bvo_Roman_Inf1_SelectedEasterlingGeneric]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": [
+                {
+                  "Id": 6,
+                  "Value": 100
+                }
+              ]
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        }
+      },
+      {
+        "$type": "Sound",
+        "EHircType": 2,
+        "UlID": "3125267857 [Bvo_Roman_Inf1_SelectedEasterlingGeneric_2]",
+        "AkBankSourceData": {
+          "UlPluginId": 262145,
+          "StreamType": 2,
+          "AkMediaInformation": {
+            "SourceId": "1500260118 [Bvo_Roman_Inf1_SelectedEasterlingGeneric_2_File]",
+            "FileId": "1500260118 [Bvo_Roman_Inf1_SelectedEasterlingGeneric_2_File]",
+            "InMemoryMediaSize": 0,
+            "SourceBits": 1
+          }
+        },
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "2577131290 [Bvo_Roman_Inf1_SelectedEasterlingGeneric]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": [
+                {
+                  "Id": 6,
+                  "Value": 100
+                }
+              ]
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        }
+      },
+      {
+        "$type": "Sound",
+        "EHircType": 2,
+        "UlID": "3125267858 [Bvo_Roman_Inf1_SelectedEasterlingGeneric_1]",
+        "AkBankSourceData": {
+          "UlPluginId": 262145,
+          "StreamType": 2,
+          "AkMediaInformation": {
+            "SourceId": "2024273095 [Bvo_Roman_Inf1_SelectedEasterlingGeneric_1_File]",
+            "FileId": "2024273095 [Bvo_Roman_Inf1_SelectedEasterlingGeneric_1_File]",
+            "InMemoryMediaSize": 0,
+            "SourceBits": 1
+          }
+        },
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "2577131290 [Bvo_Roman_Inf1_SelectedEasterlingGeneric]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": [
+                {
+                  "Id": 6,
+                  "Value": 100
+                }
+              ]
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        }
+      },
+      {
+        "$type": "Random/Sequence Container",
+        "EHircType": 5,
+        "UlID": "2577131290 [Bvo_Roman_Inf1_SelectedEasterlingGeneric]",
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "3699923075 [Bvo_Roman_Inf1]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": []
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        },
+        "LoopCount": 1,
+        "LoopModMin": 0,
+        "LoopModMax": 0,
+        "TransitionTime": 1000,
+        "TransitionTimeModMin": 0,
+        "TransitionTimeModMax": 0,
+        "AvoidRepeatCount": 1,
+        "TransitionMode": 0,
+        "RandomMode": 0,
+        "Mode": 0,
+        "ByBitVector": 18,
+        "ChildIds": [
+          "3125267858 [Bvo_Roman_Inf1_SelectedEasterlingGeneric_1]",
+          "3125267857 [Bvo_Roman_Inf1_SelectedEasterlingGeneric_2]",
+          "3125267856 [Bvo_Roman_Inf1_SelectedEasterlingGeneric_3]",
+          "3125267863 [Bvo_Roman_Inf1_SelectedEasterlingGeneric_4]",
+          "3125267862 [Bvo_Roman_Inf1_SelectedEasterlingGeneric_5]"
+        ],
+        "CAkPlayList": {
+          "PlaylistItems": [
+            {
+              "PlayId": "3125267862 [Bvo_Roman_Inf1_SelectedEasterlingGeneric_5]",
+              "Weight": 50000
+            },
+            {
+              "PlayId": "3125267863 [Bvo_Roman_Inf1_SelectedEasterlingGeneric_4]",
+              "Weight": 50000
+            },
+            {
+              "PlayId": "3125267856 [Bvo_Roman_Inf1_SelectedEasterlingGeneric_3]",
+              "Weight": 50000
+            },
+            {
+              "PlayId": "3125267857 [Bvo_Roman_Inf1_SelectedEasterlingGeneric_2]",
+              "Weight": 50000
+            },
+            {
+              "PlayId": "3125267858 [Bvo_Roman_Inf1_SelectedEasterlingGeneric_1]",
               "Weight": 50000
             }
           ]
@@ -1546,9 +1843,30 @@
         "IsContinuousValidation": 0,
         "ChildIds": [
           "99160106 [Bvo_Roman_Inf1_SelectedDwarfGeneric]",
-          "3626765198 [Bvo_Roman_Inf1_SelectedDwarfSpear]"
+          "3626765198 [Bvo_Roman_Inf1_SelectedDwarfSpear]",
+          "2577131290 [Bvo_Roman_Inf1_SelectedEasterlingGeneric]",
+          "1961974673 [Bvo_Roman_Inf1_SelectedElfArcher]",
+          "2325875355 [Bvo_Roman_Inf1_SelectedElfGeneric]"
         ],
         "SwitchPackages": [
+          {
+            "SwitchId": "50071066 [selected_elf_generic]",
+            "NodeIds": [
+              "2325875355 [Bvo_Roman_Inf1_SelectedElfGeneric]"
+            ]
+          },
+          {
+            "SwitchId": "3626040258 [selected_elf_archer]",
+            "NodeIds": [
+              "1961974673 [Bvo_Roman_Inf1_SelectedElfArcher]"
+            ]
+          },
+          {
+            "SwitchId": "4043275833 [selected_easterling_generic]",
+            "NodeIds": [
+              "2577131290 [Bvo_Roman_Inf1_SelectedEasterlingGeneric]"
+            ]
+          },
           {
             "SwitchId": "3765071421 [selected_dwarf_spear]",
             "NodeIds": [
@@ -1576,6 +1894,27 @@
           },
           {
             "NodeId": "3626765198 [Bvo_Roman_Inf1_SelectedDwarfSpear]",
+            "ByBitVector1": 0,
+            "ByBitVector2": 1,
+            "FadeOutTime": 0,
+            "FadeInTime": 0
+          },
+          {
+            "NodeId": "2577131290 [Bvo_Roman_Inf1_SelectedEasterlingGeneric]",
+            "ByBitVector1": 0,
+            "ByBitVector2": 1,
+            "FadeOutTime": 0,
+            "FadeInTime": 0
+          },
+          {
+            "NodeId": "1961974673 [Bvo_Roman_Inf1_SelectedElfArcher]",
+            "ByBitVector1": 0,
+            "ByBitVector2": 1,
+            "FadeOutTime": 0,
+            "FadeInTime": 0
+          },
+          {
+            "NodeId": "2325875355 [Bvo_Roman_Inf1_SelectedElfGeneric]",
             "ByBitVector1": 0,
             "ByBitVector2": 1,
             "FadeOutTime": 0,
