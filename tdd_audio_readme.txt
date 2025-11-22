@@ -1,5 +1,5 @@
 Created by Tollski
-Last Edit: 2025-09-22
+Last Edit: 2025-11-22
 
 Intro Flybys
 * All campaign intro flyby audio files have had their perceived loudness normalized to -16.0 LUFS.
@@ -14,4 +14,4 @@ UI
 * Victory, Defeat, and Message audio files have had their perceived loudness normalized to -17.0 LUFS.
 
 VO
-*
+* Battle VO audio files have had their perceived loudness normalized to -18.0 LUFS.
