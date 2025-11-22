@@ -16,6 +16,1358 @@
       {
         "$type": "Sound",
         "EHircType": 2,
+        "UlID": "3917271921 [Bvo_Roman_Inf1_SelectedGondorGeneric_5]",
+        "AkBankSourceData": {
+          "UlPluginId": 262145,
+          "StreamType": 2,
+          "AkMediaInformation": {
+            "SourceId": "2888386486 [Bvo_Roman_Inf1_SelectedGondorGeneric_5_File]",
+            "FileId": "2888386486 [Bvo_Roman_Inf1_SelectedGondorGeneric_5_File]",
+            "InMemoryMediaSize": 0,
+            "SourceBits": 1
+          }
+        },
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "3492622241 [Bvo_Roman_Inf1_SelectedGondorGeneric]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": [
+                {
+                  "Id": 6,
+                  "Value": 100
+                }
+              ]
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        }
+      },
+      {
+        "$type": "Sound",
+        "EHircType": 2,
+        "UlID": "3917271920 [Bvo_Roman_Inf1_SelectedGondorGeneric_4]",
+        "AkBankSourceData": {
+          "UlPluginId": 262145,
+          "StreamType": 2,
+          "AkMediaInformation": {
+            "SourceId": "1789091257 [Bvo_Roman_Inf1_SelectedGondorGeneric_4_File]",
+            "FileId": "1789091257 [Bvo_Roman_Inf1_SelectedGondorGeneric_4_File]",
+            "InMemoryMediaSize": 0,
+            "SourceBits": 1
+          }
+        },
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "3492622241 [Bvo_Roman_Inf1_SelectedGondorGeneric]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": [
+                {
+                  "Id": 6,
+                  "Value": 100
+                }
+              ]
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        }
+      },
+      {
+        "$type": "Sound",
+        "EHircType": 2,
+        "UlID": "3917271927 [Bvo_Roman_Inf1_SelectedGondorGeneric_3]",
+        "AkBankSourceData": {
+          "UlPluginId": 262145,
+          "StreamType": 2,
+          "AkMediaInformation": {
+            "SourceId": "1051763816 [Bvo_Roman_Inf1_SelectedGondorGeneric_3_File]",
+            "FileId": "1051763816 [Bvo_Roman_Inf1_SelectedGondorGeneric_3_File]",
+            "InMemoryMediaSize": 0,
+            "SourceBits": 1
+          }
+        },
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "3492622241 [Bvo_Roman_Inf1_SelectedGondorGeneric]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": [
+                {
+                  "Id": 6,
+                  "Value": 100
+                }
+              ]
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        }
+      },
+      {
+        "$type": "Sound",
+        "EHircType": 2,
+        "UlID": "3917271926 [Bvo_Roman_Inf1_SelectedGondorGeneric_2]",
+        "AkBankSourceData": {
+          "UlPluginId": 262145,
+          "StreamType": 2,
+          "AkMediaInformation": {
+            "SourceId": "2575281123 [Bvo_Roman_Inf1_SelectedGondorGeneric_2_File]",
+            "FileId": "2575281123 [Bvo_Roman_Inf1_SelectedGondorGeneric_2_File]",
+            "InMemoryMediaSize": 0,
+            "SourceBits": 1
+          }
+        },
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "3492622241 [Bvo_Roman_Inf1_SelectedGondorGeneric]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": [
+                {
+                  "Id": 6,
+                  "Value": 100
+                }
+              ]
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        }
+      },
+      {
+        "$type": "Sound",
+        "EHircType": 2,
+        "UlID": "3917271925 [Bvo_Roman_Inf1_SelectedGondorGeneric_1]",
+        "AkBankSourceData": {
+          "UlPluginId": 262145,
+          "StreamType": 2,
+          "AkMediaInformation": {
+            "SourceId": "2732524482 [Bvo_Roman_Inf1_SelectedGondorGeneric_1_File]",
+            "FileId": "2732524482 [Bvo_Roman_Inf1_SelectedGondorGeneric_1_File]",
+            "InMemoryMediaSize": 0,
+            "SourceBits": 1
+          }
+        },
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "3492622241 [Bvo_Roman_Inf1_SelectedGondorGeneric]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": [
+                {
+                  "Id": 6,
+                  "Value": 100
+                }
+              ]
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        }
+      },
+      {
+        "$type": "Random/Sequence Container",
+        "EHircType": 5,
+        "UlID": "3492622241 [Bvo_Roman_Inf1_SelectedGondorGeneric]",
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "3699923075 [Bvo_Roman_Inf1]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": []
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        },
+        "LoopCount": 1,
+        "LoopModMin": 0,
+        "LoopModMax": 0,
+        "TransitionTime": 1000,
+        "TransitionTimeModMin": 0,
+        "TransitionTimeModMax": 0,
+        "AvoidRepeatCount": 1,
+        "TransitionMode": 0,
+        "RandomMode": 0,
+        "Mode": 0,
+        "ByBitVector": 18,
+        "ChildIds": [
+          "3917271925 [Bvo_Roman_Inf1_SelectedGondorGeneric_1]",
+          "3917271926 [Bvo_Roman_Inf1_SelectedGondorGeneric_2]",
+          "3917271927 [Bvo_Roman_Inf1_SelectedGondorGeneric_3]",
+          "3917271920 [Bvo_Roman_Inf1_SelectedGondorGeneric_4]",
+          "3917271921 [Bvo_Roman_Inf1_SelectedGondorGeneric_5]"
+        ],
+        "CAkPlayList": {
+          "PlaylistItems": [
+            {
+              "PlayId": "3917271921 [Bvo_Roman_Inf1_SelectedGondorGeneric_5]",
+              "Weight": 50000
+            },
+            {
+              "PlayId": "3917271920 [Bvo_Roman_Inf1_SelectedGondorGeneric_4]",
+              "Weight": 50000
+            },
+            {
+              "PlayId": "3917271927 [Bvo_Roman_Inf1_SelectedGondorGeneric_3]",
+              "Weight": 50000
+            },
+            {
+              "PlayId": "3917271926 [Bvo_Roman_Inf1_SelectedGondorGeneric_2]",
+              "Weight": 50000
+            },
+            {
+              "PlayId": "3917271925 [Bvo_Roman_Inf1_SelectedGondorGeneric_1]",
+              "Weight": 50000
+            }
+          ]
+        }
+      },
+      {
+        "$type": "Sound",
+        "EHircType": 2,
+        "UlID": "3068792400 [Bvo_Roman_Inf1_SelectedGondorCitadelGuard_4]",
+        "AkBankSourceData": {
+          "UlPluginId": 262145,
+          "StreamType": 2,
+          "AkMediaInformation": {
+            "SourceId": "1810095449 [Bvo_Roman_Inf1_SelectedGondorCitadelGuard_4_File]",
+            "FileId": "1810095449 [Bvo_Roman_Inf1_SelectedGondorCitadelGuard_4_File]",
+            "InMemoryMediaSize": 0,
+            "SourceBits": 1
+          }
+        },
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "3822185921 [Bvo_Roman_Inf1_SelectedGondorCitadelGuard]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": [
+                {
+                  "Id": 6,
+                  "Value": 100
+                }
+              ]
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        }
+      },
+      {
+        "$type": "Sound",
+        "EHircType": 2,
+        "UlID": "3068792407 [Bvo_Roman_Inf1_SelectedGondorCitadelGuard_3]",
+        "AkBankSourceData": {
+          "UlPluginId": 262145,
+          "StreamType": 2,
+          "AkMediaInformation": {
+            "SourceId": "606733576 [Bvo_Roman_Inf1_SelectedGondorCitadelGuard_3_File]",
+            "FileId": "606733576 [Bvo_Roman_Inf1_SelectedGondorCitadelGuard_3_File]",
+            "InMemoryMediaSize": 0,
+            "SourceBits": 1
+          }
+        },
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "3822185921 [Bvo_Roman_Inf1_SelectedGondorCitadelGuard]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": [
+                {
+                  "Id": 6,
+                  "Value": 100
+                }
+              ]
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        }
+      },
+      {
+        "$type": "Sound",
+        "EHircType": 2,
+        "UlID": "3068792406 [Bvo_Roman_Inf1_SelectedGondorCitadelGuard_2]",
+        "AkBankSourceData": {
+          "UlPluginId": 262145,
+          "StreamType": 2,
+          "AkMediaInformation": {
+            "SourceId": "2171827587 [Bvo_Roman_Inf1_SelectedGondorCitadelGuard_2_File]",
+            "FileId": "2171827587 [Bvo_Roman_Inf1_SelectedGondorCitadelGuard_2_File]",
+            "InMemoryMediaSize": 0,
+            "SourceBits": 1
+          }
+        },
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "3822185921 [Bvo_Roman_Inf1_SelectedGondorCitadelGuard]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": [
+                {
+                  "Id": 6,
+                  "Value": 100
+                }
+              ]
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        }
+      },
+      {
+        "$type": "Sound",
+        "EHircType": 2,
+        "UlID": "3068792405 [Bvo_Roman_Inf1_SelectedGondorCitadelGuard_1]",
+        "AkBankSourceData": {
+          "UlPluginId": 262145,
+          "StreamType": 2,
+          "AkMediaInformation": {
+            "SourceId": "1916329186 [Bvo_Roman_Inf1_SelectedGondorCitadelGuard_1_File]",
+            "FileId": "1916329186 [Bvo_Roman_Inf1_SelectedGondorCitadelGuard_1_File]",
+            "InMemoryMediaSize": 0,
+            "SourceBits": 1
+          }
+        },
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "3822185921 [Bvo_Roman_Inf1_SelectedGondorCitadelGuard]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": [
+                {
+                  "Id": 6,
+                  "Value": 100
+                }
+              ]
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        }
+      },
+      {
+        "$type": "Random/Sequence Container",
+        "EHircType": 5,
+        "UlID": "3822185921 [Bvo_Roman_Inf1_SelectedGondorCitadelGuard]",
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "3699923075 [Bvo_Roman_Inf1]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": []
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        },
+        "LoopCount": 1,
+        "LoopModMin": 0,
+        "LoopModMax": 0,
+        "TransitionTime": 1000,
+        "TransitionTimeModMin": 0,
+        "TransitionTimeModMax": 0,
+        "AvoidRepeatCount": 1,
+        "TransitionMode": 0,
+        "RandomMode": 0,
+        "Mode": 0,
+        "ByBitVector": 18,
+        "ChildIds": [
+          "3068792405 [Bvo_Roman_Inf1_SelectedGondorCitadelGuard_1]",
+          "3068792406 [Bvo_Roman_Inf1_SelectedGondorCitadelGuard_2]",
+          "3068792407 [Bvo_Roman_Inf1_SelectedGondorCitadelGuard_3]",
+          "3068792400 [Bvo_Roman_Inf1_SelectedGondorCitadelGuard_4]"
+        ],
+        "CAkPlayList": {
+          "PlaylistItems": [
+            {
+              "PlayId": "3068792400 [Bvo_Roman_Inf1_SelectedGondorCitadelGuard_4]",
+              "Weight": 50000
+            },
+            {
+              "PlayId": "3068792407 [Bvo_Roman_Inf1_SelectedGondorCitadelGuard_3]",
+              "Weight": 50000
+            },
+            {
+              "PlayId": "3068792406 [Bvo_Roman_Inf1_SelectedGondorCitadelGuard_2]",
+              "Weight": 50000
+            },
+            {
+              "PlayId": "3068792405 [Bvo_Roman_Inf1_SelectedGondorCitadelGuard_1]",
+              "Weight": 50000
+            }
+          ]
+        }
+      },
+      {
+        "$type": "Sound",
+        "EHircType": 2,
+        "UlID": "670820868 [Bvo_Roman_Inf1_SelectedGondorCavalry_5]",
+        "AkBankSourceData": {
+          "UlPluginId": 262145,
+          "StreamType": 2,
+          "AkMediaInformation": {
+            "SourceId": "1531537333 [Bvo_Roman_Inf1_SelectedGondorCavalry_5_File]",
+            "FileId": "1531537333 [Bvo_Roman_Inf1_SelectedGondorCavalry_5_File]",
+            "InMemoryMediaSize": 0,
+            "SourceBits": 1
+          }
+        },
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "1238874300 [Bvo_Roman_Inf1_SelectedGondorCavalry]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": [
+                {
+                  "Id": 6,
+                  "Value": 100
+                }
+              ]
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        }
+      },
+      {
+        "$type": "Sound",
+        "EHircType": 2,
+        "UlID": "670820869 [Bvo_Roman_Inf1_SelectedGondorCavalry_4]",
+        "AkBankSourceData": {
+          "UlPluginId": 262145,
+          "StreamType": 2,
+          "AkMediaInformation": {
+            "SourceId": "1821517778 [Bvo_Roman_Inf1_SelectedGondorCavalry_4_File]",
+            "FileId": "1821517778 [Bvo_Roman_Inf1_SelectedGondorCavalry_4_File]",
+            "InMemoryMediaSize": 0,
+            "SourceBits": 1
+          }
+        },
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "1238874300 [Bvo_Roman_Inf1_SelectedGondorCavalry]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": [
+                {
+                  "Id": 6,
+                  "Value": 100
+                }
+              ]
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        }
+      },
+      {
+        "$type": "Sound",
+        "EHircType": 2,
+        "UlID": "670820866 [Bvo_Roman_Inf1_SelectedGondorCavalry_3]",
+        "AkBankSourceData": {
+          "UlPluginId": 262145,
+          "StreamType": 2,
+          "AkMediaInformation": {
+            "SourceId": "303749047 [Bvo_Roman_Inf1_SelectedGondorCavalry_3_File]",
+            "FileId": "303749047 [Bvo_Roman_Inf1_SelectedGondorCavalry_3_File]",
+            "InMemoryMediaSize": 0,
+            "SourceBits": 1
+          }
+        },
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "1238874300 [Bvo_Roman_Inf1_SelectedGondorCavalry]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": [
+                {
+                  "Id": 6,
+                  "Value": 100
+                }
+              ]
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        }
+      },
+      {
+        "$type": "Sound",
+        "EHircType": 2,
+        "UlID": "670820867 [Bvo_Roman_Inf1_SelectedGondorCavalry_2]",
+        "AkBankSourceData": {
+          "UlPluginId": 262145,
+          "StreamType": 2,
+          "AkMediaInformation": {
+            "SourceId": "1135836060 [Bvo_Roman_Inf1_SelectedGondorCavalry_2_File]",
+            "FileId": "1135836060 [Bvo_Roman_Inf1_SelectedGondorCavalry_2_File]",
+            "InMemoryMediaSize": 0,
+            "SourceBits": 1
+          }
+        },
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "1238874300 [Bvo_Roman_Inf1_SelectedGondorCavalry]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": [
+                {
+                  "Id": 6,
+                  "Value": 100
+                }
+              ]
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        }
+      },
+      {
+        "$type": "Sound",
+        "EHircType": 2,
+        "UlID": "670820864 [Bvo_Roman_Inf1_SelectedGondorCavalry_1]",
+        "AkBankSourceData": {
+          "UlPluginId": 262145,
+          "StreamType": 2,
+          "AkMediaInformation": {
+            "SourceId": "1997386697 [Bvo_Roman_Inf1_SelectedGondorCavalry_1_File]",
+            "FileId": "1997386697 [Bvo_Roman_Inf1_SelectedGondorCavalry_1_File]",
+            "InMemoryMediaSize": 0,
+            "SourceBits": 1
+          }
+        },
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "1238874300 [Bvo_Roman_Inf1_SelectedGondorCavalry]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": [
+                {
+                  "Id": 6,
+                  "Value": 100
+                }
+              ]
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        }
+      },
+      {
+        "$type": "Random/Sequence Container",
+        "EHircType": 5,
+        "UlID": "1238874300 [Bvo_Roman_Inf1_SelectedGondorCavalry]",
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "3699923075 [Bvo_Roman_Inf1]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": []
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        },
+        "LoopCount": 1,
+        "LoopModMin": 0,
+        "LoopModMax": 0,
+        "TransitionTime": 1000,
+        "TransitionTimeModMin": 0,
+        "TransitionTimeModMax": 0,
+        "AvoidRepeatCount": 1,
+        "TransitionMode": 0,
+        "RandomMode": 0,
+        "Mode": 0,
+        "ByBitVector": 18,
+        "ChildIds": [
+          "670820864 [Bvo_Roman_Inf1_SelectedGondorCavalry_1]",
+          "670820867 [Bvo_Roman_Inf1_SelectedGondorCavalry_2]",
+          "670820866 [Bvo_Roman_Inf1_SelectedGondorCavalry_3]",
+          "670820869 [Bvo_Roman_Inf1_SelectedGondorCavalry_4]",
+          "670820868 [Bvo_Roman_Inf1_SelectedGondorCavalry_5]"
+        ],
+        "CAkPlayList": {
+          "PlaylistItems": [
+            {
+              "PlayId": "670820868 [Bvo_Roman_Inf1_SelectedGondorCavalry_5]",
+              "Weight": 50000
+            },
+            {
+              "PlayId": "670820869 [Bvo_Roman_Inf1_SelectedGondorCavalry_4]",
+              "Weight": 50000
+            },
+            {
+              "PlayId": "670820866 [Bvo_Roman_Inf1_SelectedGondorCavalry_3]",
+              "Weight": 50000
+            },
+            {
+              "PlayId": "670820867 [Bvo_Roman_Inf1_SelectedGondorCavalry_2]",
+              "Weight": 50000
+            },
+            {
+              "PlayId": "670820864 [Bvo_Roman_Inf1_SelectedGondorCavalry_1]",
+              "Weight": 50000
+            }
+          ]
+        }
+      },
+      {
+        "$type": "Sound",
+        "EHircType": 2,
+        "UlID": "3269064570 [Bvo_Roman_Inf1_SelectedGondorArcher_4]",
+        "AkBankSourceData": {
+          "UlPluginId": 262145,
+          "StreamType": 2,
+          "AkMediaInformation": {
+            "SourceId": "1361153071 [Bvo_Roman_Inf1_SelectedGondorArcher_4_File]",
+            "FileId": "1361153071 [Bvo_Roman_Inf1_SelectedGondorArcher_4_File]",
+            "InMemoryMediaSize": 0,
+            "SourceBits": 1
+          }
+        },
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "443043111 [Bvo_Roman_Inf1_SelectedGondorArcher]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": [
+                {
+                  "Id": 6,
+                  "Value": 100
+                }
+              ]
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        }
+      },
+      {
+        "$type": "Sound",
+        "EHircType": 2,
+        "UlID": "3269064573 [Bvo_Roman_Inf1_SelectedGondorArcher_3]",
+        "AkBankSourceData": {
+          "UlPluginId": 262145,
+          "StreamType": 2,
+          "AkMediaInformation": {
+            "SourceId": "900288810 [Bvo_Roman_Inf1_SelectedGondorArcher_3_File]",
+            "FileId": "900288810 [Bvo_Roman_Inf1_SelectedGondorArcher_3_File]",
+            "InMemoryMediaSize": 0,
+            "SourceBits": 1
+          }
+        },
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "443043111 [Bvo_Roman_Inf1_SelectedGondorArcher]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": [
+                {
+                  "Id": 6,
+                  "Value": 100
+                }
+              ]
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        }
+      },
+      {
+        "$type": "Sound",
+        "EHircType": 2,
+        "UlID": "3269064572 [Bvo_Roman_Inf1_SelectedGondorArcher_2]",
+        "AkBankSourceData": {
+          "UlPluginId": 262145,
+          "StreamType": 2,
+          "AkMediaInformation": {
+            "SourceId": "72738253 [Bvo_Roman_Inf1_SelectedGondorArcher_2_File]",
+            "FileId": "72738253 [Bvo_Roman_Inf1_SelectedGondorArcher_2_File]",
+            "InMemoryMediaSize": 0,
+            "SourceBits": 1
+          }
+        },
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "443043111 [Bvo_Roman_Inf1_SelectedGondorArcher]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": [
+                {
+                  "Id": 6,
+                  "Value": 100
+                }
+              ]
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        }
+      },
+      {
+        "$type": "Sound",
+        "EHircType": 2,
+        "UlID": "3269064575 [Bvo_Roman_Inf1_SelectedGondorArcher_1]",
+        "AkBankSourceData": {
+          "UlPluginId": 262145,
+          "StreamType": 2,
+          "AkMediaInformation": {
+            "SourceId": "3890780528 [Bvo_Roman_Inf1_SelectedGondorArcher_1_File]",
+            "FileId": "3890780528 [Bvo_Roman_Inf1_SelectedGondorArcher_1_File]",
+            "InMemoryMediaSize": 0,
+            "SourceBits": 1
+          }
+        },
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "443043111 [Bvo_Roman_Inf1_SelectedGondorArcher]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": [
+                {
+                  "Id": 6,
+                  "Value": 100
+                }
+              ]
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        }
+      },
+      {
+        "$type": "Random/Sequence Container",
+        "EHircType": 5,
+        "UlID": "443043111 [Bvo_Roman_Inf1_SelectedGondorArcher]",
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "3699923075 [Bvo_Roman_Inf1]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": []
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        },
+        "LoopCount": 1,
+        "LoopModMin": 0,
+        "LoopModMax": 0,
+        "TransitionTime": 1000,
+        "TransitionTimeModMin": 0,
+        "TransitionTimeModMax": 0,
+        "AvoidRepeatCount": 1,
+        "TransitionMode": 0,
+        "RandomMode": 0,
+        "Mode": 0,
+        "ByBitVector": 18,
+        "ChildIds": [
+          "3269064575 [Bvo_Roman_Inf1_SelectedGondorArcher_1]",
+          "3269064572 [Bvo_Roman_Inf1_SelectedGondorArcher_2]",
+          "3269064573 [Bvo_Roman_Inf1_SelectedGondorArcher_3]",
+          "3269064570 [Bvo_Roman_Inf1_SelectedGondorArcher_4]"
+        ],
+        "CAkPlayList": {
+          "PlaylistItems": [
+            {
+              "PlayId": "3269064570 [Bvo_Roman_Inf1_SelectedGondorArcher_4]",
+              "Weight": 50000
+            },
+            {
+              "PlayId": "3269064573 [Bvo_Roman_Inf1_SelectedGondorArcher_3]",
+              "Weight": 50000
+            },
+            {
+              "PlayId": "3269064572 [Bvo_Roman_Inf1_SelectedGondorArcher_2]",
+              "Weight": 50000
+            },
+            {
+              "PlayId": "3269064575 [Bvo_Roman_Inf1_SelectedGondorArcher_1]",
+              "Weight": 50000
+            }
+          ]
+        }
+      },
+      {
+        "$type": "Sound",
+        "EHircType": 2,
         "UlID": "2310719950 [Bvo_Roman_Inf1_SelectedElfGeneric_4]",
         "AkBankSourceData": {
           "UlPluginId": 262145,
@@ -1846,9 +3198,37 @@
           "3626765198 [Bvo_Roman_Inf1_SelectedDwarfSpear]",
           "2577131290 [Bvo_Roman_Inf1_SelectedEasterlingGeneric]",
           "1961974673 [Bvo_Roman_Inf1_SelectedElfArcher]",
-          "2325875355 [Bvo_Roman_Inf1_SelectedElfGeneric]"
+          "2325875355 [Bvo_Roman_Inf1_SelectedElfGeneric]",
+          "443043111 [Bvo_Roman_Inf1_SelectedGondorArcher]",
+          "1238874300 [Bvo_Roman_Inf1_SelectedGondorCavalry]",
+          "3822185921 [Bvo_Roman_Inf1_SelectedGondorCitadelGuard]",
+          "3492622241 [Bvo_Roman_Inf1_SelectedGondorGeneric]"
         ],
         "SwitchPackages": [
+          {
+            "SwitchId": "1269832104 [selected_gondor_generic]",
+            "NodeIds": [
+              "3492622241 [Bvo_Roman_Inf1_SelectedGondorGeneric]"
+            ]
+          },
+          {
+            "SwitchId": "962644970 [selected_gondor_citadelguard]",
+            "NodeIds": [
+              "3822185921 [Bvo_Roman_Inf1_SelectedGondorCitadelGuard]"
+            ]
+          },
+          {
+            "SwitchId": "3872833005 [selected_gondor_cavalry]",
+            "NodeIds": [
+              "1238874300 [Bvo_Roman_Inf1_SelectedGondorCavalry]"
+            ]
+          },
+          {
+            "SwitchId": "4273580576 [selected_gondor_archer]",
+            "NodeIds": [
+              "443043111 [Bvo_Roman_Inf1_SelectedGondorArcher]"
+            ]
+          },
           {
             "SwitchId": "50071066 [selected_elf_generic]",
             "NodeIds": [
@@ -1915,6 +3295,34 @@
           },
           {
             "NodeId": "2325875355 [Bvo_Roman_Inf1_SelectedElfGeneric]",
+            "ByBitVector1": 0,
+            "ByBitVector2": 1,
+            "FadeOutTime": 0,
+            "FadeInTime": 0
+          },
+          {
+            "NodeId": "443043111 [Bvo_Roman_Inf1_SelectedGondorArcher]",
+            "ByBitVector1": 0,
+            "ByBitVector2": 1,
+            "FadeOutTime": 0,
+            "FadeInTime": 0
+          },
+          {
+            "NodeId": "1238874300 [Bvo_Roman_Inf1_SelectedGondorCavalry]",
+            "ByBitVector1": 0,
+            "ByBitVector2": 1,
+            "FadeOutTime": 0,
+            "FadeInTime": 0
+          },
+          {
+            "NodeId": "3822185921 [Bvo_Roman_Inf1_SelectedGondorCitadelGuard]",
+            "ByBitVector1": 0,
+            "ByBitVector2": 1,
+            "FadeOutTime": 0,
+            "FadeInTime": 0
+          },
+          {
+            "NodeId": "3492622241 [Bvo_Roman_Inf1_SelectedGondorGeneric]",
             "ByBitVector1": 0,
             "ByBitVector2": 1,
             "FadeOutTime": 0,
