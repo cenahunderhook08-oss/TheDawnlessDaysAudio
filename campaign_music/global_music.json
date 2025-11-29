@@ -8648,8 +8648,8 @@
             "UlPluginId": 262145,
             "StreamType": 2,
             "AkMediaInformation": {
-              "SourceId": "281115467 [?]",
-              "FileId": "281115467 [?]",
+              "SourceId": "560373866 [?]",
+              "FileId": "560373866 [?]",
               "InMemoryMediaSize": 0,
               "SourceBits": 0
             }
@@ -8658,11 +8658,11 @@
         "TrackSourceInfos": [
           {
             "TrackId": 0,
-            "SourceId": "281115467 [?]",
+            "SourceId": "560373866 [?]",
             "PlayAt": 0,
             "BeginTrimOffset": 0,
             "EndTrimOffset": 0,
-            "SrcDuration": 357471
+            "SrcDuration": 106292
           }
         ],
         "NumSubTrack": 1,
@@ -8724,12 +8724,7 @@
             "ByBitVector": 0,
             "NodeInitialParams": {
               "AkPropBundle": {
-                "Props": [
-                  {
-                    "Id": 6,
-                    "Value": 100
-                  }
-                ]
+                "Props": []
               },
               "AkPropBundleMinMax": {
                 "Props": []
@@ -8768,7 +8763,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 357471,
+        "Duration": 106292,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -8776,7 +8771,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 357471
+            "Position": 106292
           }
         ]
       },
