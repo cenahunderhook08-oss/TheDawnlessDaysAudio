@@ -3207,7 +3207,7 @@
             "PlayAt": 0,
             "BeginTrimOffset": 0,
             "EndTrimOffset": 0,
-            "SrcDuration": 36000
+            "SrcDuration": 75886
           }
         ],
         "NumSubTrack": 1,
@@ -3313,7 +3313,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 36000,
+        "Duration": 75886,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -3321,7 +3321,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 36000
+            "Position": 75886
           }
         ]
       },
@@ -24180,7 +24180,7 @@
             "PlayAt": 0,
             "BeginTrimOffset": 0,
             "EndTrimOffset": 0,
-            "SrcDuration": 98000
+            "SrcDuration": 104777
           }
         ],
         "NumSubTrack": 1,
@@ -24281,7 +24281,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 98000,
+        "Duration": 104777,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -24344,7 +24344,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 98000
+            "Position": 104777
           }
         ]
       },
@@ -24372,7 +24372,7 @@
             "PlayAt": 0,
             "BeginTrimOffset": 0,
             "EndTrimOffset": -0,
-            "SrcDuration": 188000
+            "SrcDuration": 308039
           }
         ],
         "NumSubTrack": 1,
@@ -24473,7 +24473,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 188000,
+        "Duration": 308039,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -24531,7 +24531,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 188000
+            "Position": 308039
           }
         ]
       },
@@ -24688,7 +24688,7 @@
             "PlayAt": 0,
             "BeginTrimOffset": 0,
             "EndTrimOffset": 0,
-            "SrcDuration": 40000
+            "SrcDuration": 130000
           }
         ],
         "NumSubTrack": 1,
@@ -24789,7 +24789,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 40000,
+        "Duration": 130000,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -24797,7 +24797,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 40000
+            "Position": 130000
           }
         ]
       },
@@ -24825,7 +24825,7 @@
             "PlayAt": 0,
             "BeginTrimOffset": 0,
             "EndTrimOffset": -0,
-            "SrcDuration": 76000
+            "SrcDuration": 174783
           }
         ],
         "NumSubTrack": 1,
@@ -24926,7 +24926,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 76000,
+        "Duration": 174783,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -25004,7 +25004,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 76000
+            "Position": 174783
           }
         ]
       },
@@ -25343,7 +25343,7 @@
             "PlayAt": 0,
             "BeginTrimOffset": 0,
             "EndTrimOffset": 0,
-            "SrcDuration": 76000
+            "SrcDuration": 84036
           }
         ],
         "NumSubTrack": 1,
@@ -25444,7 +25444,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 76000,
+        "Duration": 84036,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -25507,7 +25507,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 76000
+            "Position": 84036
           }
         ]
       },
@@ -29517,7 +29517,7 @@
               },
               {
                 "Key": "1787064993 [barbarian]",
-                "AudioNodeId": "662480287 [?]",
+                "AudioNodeId": "416955517 [?]",
                 "ChildrenIdx": 0,
                 "Weight": 50,
                 "Probability": 100,
@@ -29533,7 +29533,7 @@
               },
               {
                 "Key": "3254137205 [arabic]",
-                "AudioNodeId": "645859953 [?]",
+                "AudioNodeId": "416955517 [?]",
                 "ChildrenIdx": 0,
                 "Weight": 50,
                 "Probability": 100,
@@ -29541,7 +29541,7 @@
               },
               {
                 "Key": "4291304636 [hunnic]",
-                "AudioNodeId": "198468794 [?]",
+                "AudioNodeId": "416955517 [?]",
                 "ChildrenIdx": 0,
                 "Weight": 50,
                 "Probability": 100,
